@@ -1,0 +1,4 @@
+bs4==0.0.1
+prettyprint==0.1.5
+requests==2.20.0
+tqdm==4.27.0
